@@ -19,6 +19,6 @@ env.smartpath /path/to/smartctlcvt
 
 NVMe-drives are then recognized by the smart_ plugin:
 
-![](https://idicnet.de/munin-nvme/smart-nvme.jpg)
+![](smart-nvme.jpg)
 
 (All values are scaled into the range 0-100)	
