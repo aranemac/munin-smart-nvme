@@ -135,5 +135,5 @@ long strtolx( const char* p )
 	}
 	buf[l] = 0;
 
-	return (long)atoi(buf);
+	return atol(buf);
 }
